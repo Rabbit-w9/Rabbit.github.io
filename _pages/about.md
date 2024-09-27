@@ -11,20 +11,15 @@ I am very fortunate to be advised by [Prof. Janwei Wang](https://js.chd.edu.cn/y
 
 Education
 ======
-2024.9-present, Ph.D. student in School of Transportation Engineering, Chang'an University, Xi’an
+· 2024.9-present, Ph.D. student in School of Transportation Engineering, Chang'an University, Xi’an
 
-2021.9-2024.6,M.E. in School of Transportation Engineering, Chang'an University, Xi’an
+· 2021.9-2024.6,M.E. in School of Transportation Engineering, Chang'an University, Xi’an
 
-2016.9-2020.6, B.E. in School of Traffic and Transportation Engineering, Changsha University of Science and Technology，Changsha
+· 2016.9-2020.6, B.E. in School of Traffic and Transportation Engineering, Changsha University of Science and Technology，Changsha
 
-Getting started
+Publications
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+· Wang, JW, Cui, MY, Wang, HM, et,al. Trip Purpose Inference and Spatio-Temporal Characterization Based on Anonymized Trip Data: Empirical Study from Dockless Shared Bicycle Dataset in Xi'an, China, Transportation Research Record, 2024. 0361-1981, DOI: 10.1177/03611981231225654
 
 Site-wide configuration
 ------
