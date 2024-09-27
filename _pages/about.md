@@ -12,7 +12,9 @@ I am very fortunate to be advised by [Prof. Janwei Wang](https://js.chd.edu.cn/y
 Education
 ======
 2024.9-present, Ph.D. student in School of Transportation Engineering, Chang'an University, Xi’an
+
 2021.9-2024.6,M.E. in School of Transportation Engineering, Chang'an University, Xi’an
+
 2016.9-2020.6, B.E. in School of Traffic and Transportation Engineering, Changsha University of Science and Technology，Changsha
 
 Getting started
