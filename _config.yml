@@ -24,11 +24,11 @@ author:
   avatar           : "Tiga.png"
   name             : "Tiga"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Hello Word!"
+  location         : "Xi'an, China"
+  employer         : "Chang'an University"
   uri              : https://rabbit-w9.github.io/Rabbit.github.io/# URL
-  email            : "none@example.org" 
+  email            : "w-h-m@chd.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
